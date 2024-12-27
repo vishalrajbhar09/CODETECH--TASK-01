@@ -1,16 +1,20 @@
 
-# CODETECH - TASK 1: INTERN VISHAL RAMKUMAR RAJBHAR
-**Intern ID:- CT4MESG
+# CODETECH - TASK 1: 
+INTERN VISHAL RAMKUMAR RAJBHAR
 
-**Domain:- Machine Learning
+Intern ID:- CT4MESG
 
-**Duration:-December 17, 2024, to April 17, 2025
+Domain:- Machine Learning
 
-**Company:- CODETECH IT SOLUTIONS
+Duration:-December 17, 2024, to April 17, 2025
 
-**Mentor:-  Neela Santhosh Kumar  
+Company:- CODETECH IT SOLUTIONS
 
-**Task: Linear Regression on Housing Prices**
+Mentor:-  Neela Santhosh Kumar
+
+
+
+Task: Linear Regression on Housing Prices**
 
 This task implements linear regression to predict housing prices based on essential features such as square footage, number of bedrooms, and location. The California Housing Dataset serves as the benchmark for real-world housing price prediction.
 
